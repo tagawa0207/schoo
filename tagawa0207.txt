@@ -1,1 +1,2 @@
-tagawa0207‚Å‚·B
+tagawa0207ï¿½Å‚ï¿½ï¿½B
+Weâ€™ve detected the file encoding as windows-1252. When you commit changes we will transcode it to UTF-8.
